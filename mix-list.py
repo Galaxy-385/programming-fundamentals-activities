@@ -6,7 +6,7 @@ l2 = [10, 12, 35, 43, 65]
 print(math_utils.merge(l1, l2))
 
 
-#math_utils
+#math_utils.py
 def merge(l1, l2):
     if not l1 and not l2:
         return []
