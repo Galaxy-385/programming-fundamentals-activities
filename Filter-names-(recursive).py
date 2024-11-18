@@ -7,7 +7,7 @@ filtered_names = string_utils.filter_names(names, initial)
 print(filtered_names)
 
 
-#string_utils
+#string_utils.py
 def filter_names(names, initial):
     if len(names) == 0:
         return []
